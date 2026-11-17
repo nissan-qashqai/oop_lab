@@ -1,0 +1,14 @@
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/bin/Debug/net10.0/araba_sistemi
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/bin/Debug/net10.0/araba_sistemi.deps.json
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/bin/Debug/net10.0/araba_sistemi.runtimeconfig.json
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/bin/Debug/net10.0/araba_sistemi.dll
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/bin/Debug/net10.0/araba_sistemi.pdb
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.AssemblyInfoInputs.cache
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.AssemblyInfo.cs
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.csproj.CoreCompileInputs.cache
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.dll
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/refint/araba_sistemi.dll
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.pdb
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/araba_sistemi.genruntimeconfig.cache
+/Users/nisakorkmaz/Desktop/lab_17.11.26/araba_sistemi/obj/Debug/net10.0/ref/araba_sistemi.dll

@@ -1,0 +1,6 @@
+- Association (IS-A / HAS-A) : 
+iki farklı sınıfın (class) nesnelerinin birbirleriyle iletişim kurabileceği 
+veya birbirlerini kullanabileceği gevşek bir bağı ifade eder
+- Aggregation
+- Composition
+
