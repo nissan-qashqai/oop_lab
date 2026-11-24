@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/computer_system/computer_system.csproj",
+      "projectUniqueName": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/computer_system/computer_system.csproj",
       "projectName": "computer_system",
-      "projectPath": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/computer_system/computer_system.csproj",
+      "projectPath": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/computer_system/computer_system.csproj",
       "packagesPath": "/Users/nisakorkmaz/.nuget/packages/",
-      "outputPath": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/computer_system/obj/",
+      "outputPath": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/computer_system/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nisakorkmaz/.nuget/NuGet/NuGet.Config"

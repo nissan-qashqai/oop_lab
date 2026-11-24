@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj": {}
+    "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj": {}
   },
   "projects": {
-    "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj": {
+    "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj",
+        "projectUniqueName": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj",
         "projectName": "araba_sistemi",
-        "projectPath": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj",
+        "projectPath": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/araba_sistemi/araba_sistemi.csproj",
         "packagesPath": "/Users/nisakorkmaz/.nuget/packages/",
-        "outputPath": "/Users/nisakorkmaz/Desktop/oop_lab/lab_17.11.26/araba_sistemi/obj/",
+        "outputPath": "/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_17.11.26/araba_sistemi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nisakorkmaz/.nuget/NuGet/NuGet.Config"

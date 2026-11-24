@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("araba_sistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b400b0ea6b2dabcddafffb74939752fec662ab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("araba_sistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("araba_sistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
