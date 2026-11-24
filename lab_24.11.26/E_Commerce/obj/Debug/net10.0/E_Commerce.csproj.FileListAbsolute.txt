@@ -1,0 +1,15 @@
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/bin/Debug/net10.0/E_Commerce
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/bin/Debug/net10.0/E_Commerce.deps.json
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/bin/Debug/net10.0/E_Commerce.runtimeconfig.json
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/bin/Debug/net10.0/E_Commerce.dll
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/bin/Debug/net10.0/E_Commerce.pdb
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.AssemblyInfoInputs.cache
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.AssemblyInfo.cs
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.csproj.CoreCompileInputs.cache
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.sourcelink.json
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.dll
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/refint/E_Commerce.dll
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.pdb
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/E_Commerce.genruntimeconfig.cache
+/Users/nisakorkmaz/okul/2._sınıf/nyp/oop_lab/lab_24.11.26/E_Commerce/obj/Debug/net10.0/ref/E_Commerce.dll
